@@ -21,6 +21,14 @@ function App() {
           vida, você é um marido dedicado, companheiro e o mais importante de tudo, meu
           melhor amigo.
         </p>
+        <br />
+        <p>
+          Eu amo ver você sorrindo, dando risada, se sentindo orgulhoso de ter
+          conquistado algo, amo ver você falando de programação (mesmo eu não entendendo
+          muito as vezes rsrsrsr #reactoli), amo ver você com a Ivy, a maneira que você
+          cuida de nós duas me enche de alegria, porque me da a certeza de que você vai
+          ser o melhor pai do mundo pros nossos filhos.
+        </p>
       </Notepaper>
     </React.Fragment>
   );
