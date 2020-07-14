@@ -7,7 +7,7 @@ function App() {
     <React.Fragment>
       <Reset />
       <Notepaper
-        title="React.createElement(‘div’,null, “Oi Vida”);"
+        title="React.createElement (‘div’,null, “Oi Vida”);"
         author="Naiara Santanta Matioli"
       >
         <p>
@@ -29,6 +29,12 @@ function App() {
           cuida de nós duas me enche de alegria, porque me da a certeza de que você vai
           ser o melhor pai do mundo pros nossos filhos.
         </p>
+        <br />
+        <p>Você me ama?</p>
+        <p>(&nbsp;&nbsp;&nbsp;&nbsp;) se não – vai amar do mesmo jeito</p>
+        <p>(&nbsp;&nbsp;&nbsp;&nbsp;) se sim – não faz mais que a sua obrigação</p>
+        <br />
+        <p>Te amo meu gatinho.</p>
       </Notepaper>
     </React.Fragment>
   );
