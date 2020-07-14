@@ -15,6 +15,12 @@ function App() {
           cresce cada vez mais.&nbsp;&nbsp;Sinto que somos incrivelmente invencíveis
           juntos.
         </p>
+        <br />
+        <p>
+          Várias vezes eu já te disse que você não me completa, mais que soma na minha
+          vida, você é um marido dedicado, companheiro e o mais importante de tudo, meu
+          melhor amigo.
+        </p>
       </Notepaper>
     </React.Fragment>
   );
